@@ -5,11 +5,11 @@ for (i = 0; i <= num; i++) {
     console.log(i);
 }
 
-//Quadratic
+//X to the Power of
 
 num = 15;
 for (i = 1; i <= num; i++) {
-    console.log(Math.pow(i,2));
+    console.log(Math.pow(i, 2));
 }
 
 

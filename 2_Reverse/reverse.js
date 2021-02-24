@@ -11,5 +11,5 @@ num = [1,2,3,4];
 
 //Array//
 
-var test = num.reverse();
+const test = num.reverse();
 console.log(test);
