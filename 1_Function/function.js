@@ -4,5 +4,5 @@ function text() {
 
 text();
 
-const text2 = () => { console.log("This is the arrow message") }
-text2();
+const text2 = () => "This is the arrow message";
+console.log(text2())
